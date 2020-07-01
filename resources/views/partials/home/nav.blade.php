@@ -1,4 +1,4 @@
-<nav class="d-flex justify-content-between align-items-center">
+<header class="d-flex justify-content-between align-items-center">
     <div class="nav-left">
         <img src="https://www.boolean.careers/images/common/logo.png" alt="logo Boolean">
     </div>
@@ -12,4 +12,4 @@
             <li class="text-uppercase list-group-item list-button"><a class="button-candidate" href="#">candidati ora</a></li>
         </ul>
     </div>
-</nav>
+</header>

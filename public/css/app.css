@@ -16079,6 +16079,11 @@ body {
   color: #1b3c59;
 }
 
+.row {
+  margin-left: 0;
+  margin-right: 0;
+}
+
 .list-group-item {
   border: none;
   padding-right: 30px;
@@ -16095,7 +16100,7 @@ body {
   width: 200px;
 }
 
-nav {
+header {
   padding: 15px;
   position: fixed;
   width: 100%;

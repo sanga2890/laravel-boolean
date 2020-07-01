@@ -1,5 +1,4 @@
-<section id="aziende">
-    <div class="row">
+<section id="aziende" class="row">
         <div class="container">
             <p>I nostri studenti sono stati assunti da:</p>
             <div class="loghi-left">
@@ -14,7 +13,4 @@
             </div>
 
         </div>
-
-    </div>
-
 </section>

@@ -1,5 +1,4 @@
-<footer>
-    <div class="row">
+<footer class="row">
         <div class="container">
             <div class="d-flex justify-content-between align-items-baseline footer-top">
                 <div class="footer-left">
@@ -31,10 +30,5 @@
                 </div>
                 <p>Boolean SRL - Piazzale Giovanni dalle Bande Nere, 9 - 20146, Milano - P.IVA: 10214930967</p>
             </div>
-
-
         </div>
-
-    </div>
-
 </footer>
