@@ -1,6 +1,15 @@
 .list-group-item {
     border: none;
-    padding-right: 40px;
+    padding-right: 30px;
+    padding-left: 30px;
+
+    &:hover {
+        border-bottom: 3px solid $boolean_green;
+    }
+
+    &.list-button:hover {
+        border: none;
+    }
 }
 
 .nav-left img {
@@ -27,5 +36,11 @@ a {
         color: #fff;
         padding: 10px 25px;
         border-radius: 5px;
+
+        &:hover {
+            background-color: #73d462;
+        }
     }
-}    
+
+
+}

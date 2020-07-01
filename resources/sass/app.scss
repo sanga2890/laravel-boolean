@@ -1,4 +1,9 @@
 @import '~bootstrap/scss/bootstrap';
+$fa-font-path: 'fonts';
+@import "~@fortawesome/fontawesome-free/scss/fontawesome";
+@import "~@fortawesome/fontawesome-free/scss/brands";
+@import "~@fortawesome/fontawesome-free/scss/regular";
+@import "~@fortawesome/fontawesome-free/scss/solid";
 @import "partials/_variables";
 @import "partials/_commons";
 @import "partials/_header";
@@ -6,3 +11,4 @@
 @import "partials/_first_blue_stripe";
 @import "partials/_aziende";
 @import "partials/_lessons";
+@import "partials/_footer";

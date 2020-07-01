@@ -1,0 +1,38 @@
+footer {
+
+    background-color: $boolean_blue;
+    color: #fff;
+    padding: 70px 0 30px;
+
+    img {
+        width: 200px;
+        margin-bottom: 5px;
+    }
+
+    p {
+        font-size: 15px;
+    }
+
+    a {
+        color: #fff;
+        font-size: 20px;
+
+        &:hover {
+            color: #fff;
+            text-decoration: underline;
+        }
+    }
+
+    .footer-top {
+        border-bottom: 1px solid #fff;
+    }
+
+    .fab {
+        margin: 30px 20px;
+        font-size: 35px;
+
+        &:hover {
+            color: $boolean_green;
+        }
+    }
+}

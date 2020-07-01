@@ -1,5 +1,20 @@
 #lessons {
     background-color: $boolean_grey;
     padding-top: 80px;
-    padding-bottom: 80px;    
+    padding-bottom: 80px;
+
+    ul {
+        padding-left: 15px;
+    }
+
+    p.h2 {
+        font-size: 42px;
+        font-weight: 300;
+    }
+
+    p {
+        font-size: 19px;
+        font-weight: 300;
+        line-height: 1.5;
+    }
 }

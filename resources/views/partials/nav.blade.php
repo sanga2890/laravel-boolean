@@ -9,7 +9,7 @@
             <li class="text-uppercase list-group-item"><a href="#">dopo il corso</a></li>
             <li class="text-uppercase list-group-item"><a href="#">lezione gratuita</a></li>
             <li class="text-uppercase list-group-item"><a href="#">assumi i nostri studenti</a></li>
-            <li class="text-uppercase list-group-item"><a class="button-candidate" href="#">candidati ora</a></li>
+            <li class="text-uppercase list-group-item list-button"><a class="button-candidate" href="#">candidati ora</a></li>
         </ul>
     </div>
 </nav>
