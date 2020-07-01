@@ -10928,6 +10928,11 @@ a.text-dark:focus {
   }
 }
 
+body {
+  font-family: "Rubik", sans-serif;
+  color: #1b3c59;
+}
+
 .list-group-item {
   border: none;
   padding-right: 40px;
@@ -10969,6 +10974,15 @@ a.button-candidate {
   padding-left: 15px;
 }
 
+.jumbotron .lead {
+  font-size: 22px;
+  font-weight: 300;
+}
+
+.jumbotron strong {
+  font-weight: bolder;
+}
+
 #first-blue-stripe {
   background-color: #1b3c59;
   color: #fff;
@@ -10991,7 +11005,7 @@ a.button-candidate {
 }
 
 #aziende {
-  padding-bottom: 10px;
+  padding-bottom: 20px;
 }
 
 #aziende p {

@@ -1,12 +1,12 @@
 <div class="container">
     <div class="jumbotron d-flex align-items-center">
         <div class="col-md-6">
-            <h1 class="display-4 text-uppercase">diventa sviluppatore web</h1>
-            <p class="lead">Trasformiamo la tua passione in una carriera. Se non trovi lavoro, ti rimborsiamo.</p>
+            <h1 class="display-4 text-uppercase">diventa <strong>sviluppatore web</strong></h1>
+            <p class="lead"><strong>Trasformiamo la tua passione in una carriera. Se non trovi lavoro, ti rimborsiamo.</strong></p>
             <ul>
-                <li>6 mesi di corso intensivo online in diretta</li>
-                <li>Nessuna competenza di programmazione richiesta</li>
-                <li>Siamo certi del tuo successo, altrimenti ti rimborsiamo</li>
+                <li><strong>6 mesi</strong> di corso intensivo online in diretta</li>
+                <li><strong>Nessuna competenza</strong> di programmazione richiesta</li>
+                <li>Siamo certi del tuo successo, altrimenti <strong>ti rimborsiamo</strong> </li>
             </ul>
         </div>
         <div class="col-md-6">
