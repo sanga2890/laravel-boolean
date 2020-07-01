@@ -1,5 +1,5 @@
 <div class="container">
-    <div class="jumbotron col-md-12">
+    <div class="jumbotron d-flex align-items-center">
         <div class="col-md-6">
             <h1 class="display-4 text-uppercase">diventa sviluppatore web</h1>
             <p class="lead">Trasformiamo la tua passione in una carriera. Se non trovi lavoro, ti rimborsiamo.</p>

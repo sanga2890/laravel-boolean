@@ -1,0 +1,36 @@
+#aziende {
+
+    padding-bottom: 10px;
+
+    p {
+        color: #8e8e8e;
+        font-weight: 400;
+        font-size: 19px;
+    }
+
+    .loghi-left {
+
+        padding-top: 10px;
+        display: flex;
+        justify-content: flex-start;
+        margin-bottom: 30px;
+
+        img {
+            margin-right: 100px;
+        }
+    }
+
+    .loghi-right {
+        display: flex;
+        justify-content: flex-end;
+
+        img {
+            margin-left: 100px;
+        }
+    }
+
+    img {
+        width: 250px;
+    }
+
+}

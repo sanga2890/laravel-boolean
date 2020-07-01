@@ -1,6 +1,8 @@
 .jumbotron {
     padding-top: 200px;
     background-color: #fff;
-    display: flex;
-    align-items: center;
+
+    ul {
+        padding-left: 15px;
+    }
 }

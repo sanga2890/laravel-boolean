@@ -10963,7 +10963,70 @@ a.button-candidate {
 .jumbotron {
   padding-top: 200px;
   background-color: #fff;
+}
+
+.jumbotron ul {
+  padding-left: 15px;
+}
+
+#first-blue-stripe {
+  background-color: #1b3c59;
+  color: #fff;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+#first-blue-stripe h2 {
+  font-size: 50px;
+}
+
+#first-blue-stripe h3 {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+#first-blue-stripe .col-md-4 {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+#aziende {
+  padding-bottom: 10px;
+}
+
+#aziende p {
+  color: #8e8e8e;
+  font-weight: 400;
+  font-size: 19px;
+}
+
+#aziende .loghi-left {
+  padding-top: 10px;
   display: flex;
-  align-items: center;
+  justify-content: flex-start;
+  margin-bottom: 30px;
+}
+
+#aziende .loghi-left img {
+  margin-right: 100px;
+}
+
+#aziende .loghi-right {
+  display: flex;
+  justify-content: flex-end;
+}
+
+#aziende .loghi-right img {
+  margin-left: 100px;
+}
+
+#aziende img {
+  width: 250px;
+}
+
+#lessons {
+  background-color: #e8ebf1;
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
 
