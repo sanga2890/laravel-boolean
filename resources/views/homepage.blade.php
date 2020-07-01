@@ -6,6 +6,6 @@
     @include('partials.home.first_stripe')
     @include('partials.home.aziende')
     @include('partials.home.lessons')
-
-
 @endsection
+
+@section('title', 'Homepage')
