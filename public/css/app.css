@@ -10928,3 +10928,42 @@ a.text-dark:focus {
   }
 }
 
+.list-group-item {
+  border: none;
+  padding-right: 40px;
+}
+
+.nav-left img {
+  width: 200px;
+}
+
+nav {
+  padding: 15px;
+  position: fixed;
+  width: 100vw;
+  z-index: 10;
+  background-color: #fff;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a.button-candidate {
+  background-color: #61ce4e;
+  color: #fff;
+  padding: 10px 25px;
+  border-radius: 5px;
+}
+
+.jumbotron {
+  padding-top: 200px;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+}
+
