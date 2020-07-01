@@ -15,4 +15,8 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/home', function () {
     return view('homepage');
-});
+})->name('homepage');
+
+Route::get('/privacy_policy', function () {
+    return view('privacy');
+})->name('privacy');

@@ -4,7 +4,7 @@
     </div>
     <div class=" nav-right">
         <ul class="list-group list-group-horizontal">
-            <li class="text-uppercase list-group-item"><a href="#">home</a></li>
+            <li class="text-uppercase list-group-item"><a href="{{ route('homepage')}}">home</a></li>
             <li class="text-uppercase list-group-item"><a href="#">corso</a></li>
             <li class="text-uppercase list-group-item"><a href="#">dopo il corso</a></li>
             <li class="text-uppercase list-group-item"><a href="#">lezione gratuita</a></li>

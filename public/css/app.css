@@ -16198,6 +16198,17 @@ a.button-candidate:hover {
   line-height: 1.5;
 }
 
+#policies {
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+#policies h2 {
+  margin-bottom: 50px;
+}
+#policies p.h5 {
+  margin-top: 50px;
+}
+
 footer {
   background-color: #1b3c59;
   color: #fff;

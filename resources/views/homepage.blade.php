@@ -2,10 +2,10 @@
 @extends('layouts.app')
 
 @section('content')
-    @include('partials.jumbotron')
-    @include('partials.first_stripe')
-    @include('partials.aziende')
-    @include('partials.lessons')
+    @include('partials.home.jumbotron')
+    @include('partials.home.first_stripe')
+    @include('partials.home.aziende')
+    @include('partials.home.lessons')
 
 
 @endsection
